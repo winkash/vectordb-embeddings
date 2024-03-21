@@ -1,5 +1,4 @@
-# vectordb-embeddings
-# Example Milvus Vector Embeddings Project
+# vectordb embeddings with Milvus
 
 ## Prerequisites
 
