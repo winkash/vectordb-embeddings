@@ -13,7 +13,7 @@ And install the necessary python packages with:
 pip3 install -r requirements.txt
 ```
 
-Then, run the `app.py`:
+Then, run the `milvus-app.py`:
 
 ```bash
 python3 milvus-app.py
