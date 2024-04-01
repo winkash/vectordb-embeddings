@@ -16,6 +16,6 @@ pip3 install -r requirements.txt
 Then, run the `app.py`:
 
 ```bash
-python3 app.py
+python3 milvus-app.py
 ```
 
